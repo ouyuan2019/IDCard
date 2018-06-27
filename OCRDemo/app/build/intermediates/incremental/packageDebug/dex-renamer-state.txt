@@ -1,0 +1,7 @@
+#Wed Jun 27 17:31:03 CST 2018
+base.0=D\:\\IDCard\\OCRDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5514b8a617bf9d7533e488fb6a4148ffb967209c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\IDCard\\OCRDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ca3defb868a6b8b006c59cc5555abc87b05c755b\\classes.dex
+base.1=D\:\\IDCard\\OCRDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ca3defb868a6b8b006c59cc5555abc87b05c755b
+file.0=D\:\\IDCard\\OCRDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5514b8a617bf9d7533e488fb6a4148ffb967209c\\classes.dex

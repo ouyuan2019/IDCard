@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\IDCard\OCRDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\IDCard\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ca3defb868a6b8b006c59cc5555abc87b05c755b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\103\aip-ocr-android-sdk-1.4.3\OCRDemo\app\libs\ocr-sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="50e884d12eb144b9de3f50e6cafd9ca99bf01451">
+        <dex dex="E:\103\aip-ocr-android-sdk-1.4.3\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\ocr-sdk_b97ecc23d9327076a51987c2ca01ab18da05a1e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\103\aip-ocr-android-sdk-1.4.3\OCRDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\103\aip-ocr-android-sdk-1.4.3\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7a0d7e88c4a610dcd9a002bcd67098f615a0bb06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDCard\OCRDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed0c8a6194a395e1c359b96c8361de38ab1003b5">
+        <dex dex="D:\IDCard\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5514b8a617bf9d7533e488fb6a4148ffb967209c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\103\aip-ocr-android-sdk-1.4.3\OCRDemo\ocr_ui\build\intermediates\bundles\default\libs\license.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eca3cb381d01815bb3cec10d215f5d6ba1b2308d">
+        <dex dex="E:\103\aip-ocr-android-sdk-1.4.3\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\8\license_8109b41c0962d15029a74ae9b5f30ca8aef1be2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDCard\OCRDemo\ocr_ui\build\intermediates\bundles\default\libs\license.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eca3cb381d01815bb3cec10d215f5d6ba1b2308d">
+        <dex dex="D:\IDCard\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\8\license_f43ac2986b17069221c8d33b0504c77b11ba44a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDCard\OCRDemo\ocr_ui\build\intermediates\bundles\default\libs\ocr-sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbfc7141cb14fec1556562bf4fa342761590923">
+        <dex dex="D:\IDCard\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\8\ocr-sdk_a9ab49d32b2458708be3a28894f4d89985e2b120\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\103\aip-ocr-android-sdk-1.4.3\OCRDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="96ec1bcd800350335c6cf6c72e4be58c5562a0f1">
+        <dex dex="E:\103\aip-ocr-android-sdk-1.4.3\OCRDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_98d6e0f91366db7145a143f0f84ea7500661ba3a\classes.dex" />
+    </item>
+
+</items>

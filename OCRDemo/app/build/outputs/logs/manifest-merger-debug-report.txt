@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:3:1-27:12
+	package
+		ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:4:11-39
+		INJECTED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:3:11-69
+	android:versionCode
+		INJECTED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.ozy.orc:ocr_ui:unspecified] D:\IDCard\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:7:5-80
+MERGED from [com.ozy.orc:ocr_ui:unspecified] D:\IDCard\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:9:5-25:19
+MERGED from [com.ozy.orc:ocr_ui:unspecified] D:\IDCard\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:20:5-31:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\LDDEV002\.android\build-cache\14a0d8372ebe8f69bb69f635fe9f3b10e12474c6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\LDDEV002\.android\build-cache\98e9a04be4ace0bdd9de96f3ed8e769b826c87bf\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\LDDEV002\.android\build-cache\d8e79d386686af53fb9bce9220399975a3110a2d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\LDDEV002\.android\build-cache\b4e7efd6b7fccdb70f7b17089508c79ac8e95396\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\LDDEV002\.android\build-cache\6cf0f9496ff18fa354d2a4b58027669dcfc8a382\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\LDDEV002\.android\build-cache\7c9c5d71522c9168d35d237ab4a7ce465ece51a6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\LDDEV002\.android\build-cache\2b846e3c4747ea11dc45afe7d5787135b637b71c\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\LDDEV002\.android\build-cache\9e564862060133ab7ef8c1ee2b9fda54735e1f5e\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\LDDEV002\.android\build-cache\7ea5ec526cd9c154e4d5d1d3c51235b7f3214a74\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:12:13-45
+	android:supportsRtl
+		ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:13:13-39
+	android:vmSafeMode
+		ADDED from [com.ozy.orc:ocr_ui:unspecified] D:\IDCard\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:26:9-34
+	android:allowBackup
+		ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:10:13-39
+	android:icon
+		ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:11:13-47
+	android:theme
+		ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:14:13-44
+activity#com.baidu.ocr.demo.MainActivity
+ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.baidu.ocr.demo.IDCardActivity
+ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:22:9-24:20
+	android:label
+		ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml:22:19-49
+uses-sdk
+INJECTED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.ozy.orc:ocr_ui:unspecified] D:\IDCard\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\LDDEV002\.android\build-cache\14a0d8372ebe8f69bb69f635fe9f3b10e12474c6\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\LDDEV002\.android\build-cache\98e9a04be4ace0bdd9de96f3ed8e769b826c87bf\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\LDDEV002\.android\build-cache\d8e79d386686af53fb9bce9220399975a3110a2d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\LDDEV002\.android\build-cache\b4e7efd6b7fccdb70f7b17089508c79ac8e95396\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\LDDEV002\.android\build-cache\6cf0f9496ff18fa354d2a4b58027669dcfc8a382\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\LDDEV002\.android\build-cache\7c9c5d71522c9168d35d237ab4a7ce465ece51a6\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\LDDEV002\.android\build-cache\2b846e3c4747ea11dc45afe7d5787135b637b71c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\LDDEV002\.android\build-cache\9e564862060133ab7ef8c1ee2b9fda54735e1f5e\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\LDDEV002\.android\build-cache\7ea5ec526cd9c154e4d5d1d3c51235b7f3214a74\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\LDDEV002\.android\build-cache\14a0d8372ebe8f69bb69f635fe9f3b10e12474c6\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IDCard\OCRDemo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [com.ozy.orc:ocr_ui:unspecified] D:\IDCard\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from [com.ozy.orc:ocr_ui:unspecified] D:\IDCard\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:12:22-62
+uses-feature#android.hardware.camera2.full
+ADDED from [com.ozy.orc:ocr_ui:unspecified] D:\IDCard\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from [com.ozy.orc:ocr_ui:unspecified] D:\IDCard\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:16:19-63
+uses-feature#android.hardware.camera
+ADDED from [com.ozy.orc:ocr_ui:unspecified] D:\IDCard\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:17:5-60
+	android:name
+		ADDED from [com.ozy.orc:ocr_ui:unspecified] D:\IDCard\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:17:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.ozy.orc:ocr_ui:unspecified] D:\IDCard\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:18:5-70
+	android:name
+		ADDED from [com.ozy.orc:ocr_ui:unspecified] D:\IDCard\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:18:19-67
+activity#com.baidu.ocr.ui.camera.CameraActivity
+ADDED from [com.ozy.orc:ocr_ui:unspecified] D:\IDCard\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:27:9-30:80
+	android:configChanges
+		ADDED from [com.ozy.orc:ocr_ui:unspecified] D:\IDCard\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:29:13-59
+	android:theme
+		ADDED from [com.ozy.orc:ocr_ui:unspecified] D:\IDCard\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:30:13-77
+	android:name
+		ADDED from [com.ozy.orc:ocr_ui:unspecified] D:\IDCard\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:28:13-66
